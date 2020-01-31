@@ -1,8 +1,3 @@
-/* Student Details:
-*  Name: Saifuddin Telia
-*  GNumber: G01229939
-*/
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
